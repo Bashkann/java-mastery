@@ -1,0 +1,19 @@
+# --- IntelliJ IDEA Specific ---
+.idea/
+/shelf/
+/workspace.xml
+/queries/
+/dataSources/
+/dataSources.local.xml
+/httpRequests/
+*.iml
+out/
+
+# --- Java Specific ---
+*.class
+*.log
+target/
+bin/
+
+# --- macOS Specific ---
+.DS_Store
